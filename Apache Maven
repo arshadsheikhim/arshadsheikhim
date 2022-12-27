@@ -1,0 +1,8 @@
+Apache Maven is a build automation tool used primarily for Java projects. Maven addresses two aspects of building software: first, it describes how software is built, and second, it describes its dependencies. Maven is designed to take much of the hard work out of building an application.
+Maven uses a declarative approach, where the user describes the desired results, and Maven works to achieve those results. For example, a user can specify that they want a jar file built from the source code, and Maven will automatically download any necessary dependencies, compile the code, and package it into a jar file.
+Maven is built on the concept of a project object model (POM) that describes the resources associated with a project. This includes information about the project's dependencies, the build directory, and the build plugins used. Maven uses this information to manage the build process.
+Maven also provides a number of useful features, including:
+•	Dependency management: Maven can automatically manage the dependencies of a project, including downloading and updating them as necessary.
+•	Build life cycle: Maven defines a standard set of phases that a build goes through, such as compile, test, and package.
+•	Plugins: Maven provides a large number of plugins that can be used to perform a wide variety of tasks, such as generating documentation, running tests, or deploying the application.
+Overall, Maven is a powerful tool that can greatly simplify the process of building and managing Java projects.
