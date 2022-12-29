@@ -7,3 +7,5 @@ Maven is used to manage dependencies, build, test, and deploy Java-based project
 To use Maven, you need to have Java and Maven installed on your machine. You can then create a new Maven project by running the "mvn archetype:generate" command and following the prompts. Once you have created your project, you can build it by running the "mvn clean install" command. This will compile the code, run any tests, and package the code into a JAR or WAR file.
 
 Maven uses a standard directory layout and a set of conventions for naming and organizing files. It also uses a central repository to store libraries and other dependencies, which simplifies the process of managing dependencies in your project.
+
+End of the Page- Arshad
