@@ -6,3 +6,6 @@ Maven also provides a number of useful features, including:
 •	Build life cycle: Maven defines a standard set of phases that a build goes through, such as compile, test, and package.
 •	Plugins: Maven provides a large number of plugins that can be used to perform a wide variety of tasks, such as generating documentation, running tests, or deploying the application.
 Overall, Maven is a powerful tool that can greatly simplify the process of building and managing Java projects.
+
+
+End of the page-Arshad
