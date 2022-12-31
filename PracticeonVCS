@@ -1,12 +1,16 @@
 pipeline {Test for VCS)
-  Tester: Arshad for VCS Version1.0
+  Tester: Arshad for VCS Version2.0
     stage('Build') {
       steps {
         echo 'Building...'
         sh './gradlew build'
       }
     }
-    stage('Test') {
+    stage('Test') { stage('Test') {
+      steps {
+        echo 'Testing...'
+        sh './gradlew test'
+
       steps {
         echo 'Testing...'
         sh './gradlew test'
