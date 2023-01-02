@@ -6,3 +6,16 @@ Here are some common steps for working with branches in Git:
 5.	Delete a branch: Use the git branch command with the -d flag, followed by the name of the branch you want to delete, to delete a branch. For example, git branch -d my-branch will delete the "my-branch" branch.
 It's a good idea to use branches when working on new features or bug fixes, so that you can isolate your work and keep the main branch (usually called "master") stable. When you're ready to merge your changes back into the main branch, you can use the git merge command to combine the two branches.
 
+
+
+
+
+
+
+
+
+
+
+
+
+This file too to change and see a conflict issue
