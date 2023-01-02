@@ -7,5 +7,21 @@ Here are some common steps for working with branches in Git:
 It's a good idea to use branches when working on new features or bug fixes, so that you can isolate your work and keep the main branch (usually called "master") stable. When you're ready to merge your changes back into the main branch, you can use the git merge command to combine the two branches.
 
 
+
 This line is to make conflict between Devlop Branch and Main 
 
+
+
+
+
+
+
+
+
+
+This file too to change and see a conflict issue
+
+
+
+
+Merging and conflict issue atlast solved - Arshad
