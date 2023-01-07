@@ -1,12 +1,14 @@
+<<<<<<< HEAD
 Pipelen script by devoper2 & 3
 
 pipeline {
-   
+    agent {Devloper12
+=======
 Pipeline Scrpit by Develper1
 
 pipeline {
     agent {Developer1
-
+>>>>>>> Develop
         label 'my-label'
     }
     stages {
@@ -15,6 +17,7 @@ pipeline {
                 // build steps go here
             }
         }
+<<<<<<< HEAD
         
     stages {a other level of stage
         stage('Build') {
@@ -22,7 +25,9 @@ pipeline {
                 // build steps go here
   
          stage('Test') {
+=======
         stage('Test') {
+>>>>>>> Develop
             steps {
                 // test steps go here
             }
@@ -34,5 +39,7 @@ pipeline {
         }
     }
 }
+<<<<<<< HEAD
+=======
 
-
+>>>>>>> Develop
