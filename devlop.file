@@ -1,0 +1,30 @@
+Pipelen script by devoper2 & 3
+
+pipeline {
+    agent {Devloper12
+        label 'my-label'
+    }
+    stages {
+        stage('Build') {
+            steps {
+                // build steps go here
+            }
+        }
+        
+    stages {a other level of stage
+        stage('Build') {
+            steps {
+                // build steps go here
+  
+         stage('Test') {
+            steps {
+                // test steps go here
+            }
+        }
+        stage('Deploy') {
+            steps {
+                // deploy steps go here
+            }
+        }
+    }
+}
